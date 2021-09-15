@@ -1,3 +1,6 @@
 [submodule "MovieBookingApp-Backend"]
 	path = MovieBookingApp-Backend
 	url = https://github.com/AwaizMd/MovieBookingApp-Backend
+[submodule "MovieBookingApp-FrontEnd"]
+	path = MovieBookingApp-FrontEnd
+	url = https://github.com/AwaizMd/MovieBookingApp-FrontEnd
